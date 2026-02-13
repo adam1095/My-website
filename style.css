@@ -1,0 +1,7 @@
+body { font-family: Arial; background: #f4f4f4; margin:0; padding:0; }
+header { background: #0077cc; color: white; padding:1rem; text-align:center; }
+nav a { color:white; margin:0 1rem; text-decoration:none; }
+section { padding:2rem; margin:1rem; background:white; border-radius:8px; }
+form input, form textarea, form button { width:100%; margin:0.5rem 0; padding:0.5rem; }
+form button { background:#0077cc; color:white; border:none; }
+form button:hover { background:#005fa3; }
